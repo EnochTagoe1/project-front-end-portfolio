@@ -2,9 +2,9 @@ The purpose of this project will be to build a pictographic dictionary for kids 
 
 
 User Stories:
-- A user can create an account so they can take advantage of additional features.
+- //A user can create an account so they can take advantage of additional features.
 - A User can type a word and get a definiton (and an image).
-- A user can add a word to to favorites list.
+- A user can add a new word to to favorites glossary list.
 - A user can see the definition of a word.
 - A user can also see the phonetic pronounciation of the word.
 - A user can see synonymns of the word
