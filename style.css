@@ -1,0 +1,32 @@
+
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: black;
+}
+
+
+
+h1 {
+    text-align: center;
+    color: red;
+    
+}
+h2 {
+    color: green;
+    margin-left: 10px;
+}
+.form {
+    /* display: grid; */
+    border: 2px solid blue;
+    width: 100%;
+    padding: 25px;
+    border-color: aquamarine;
+}
+
+@media(min-width: 600px) {
+     li {background-color: rgb(179, 245, 203);
+}
+};

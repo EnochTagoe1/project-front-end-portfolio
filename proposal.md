@@ -1,5 +1,6 @@
-The purpose of this project will be to build a pictographic dictionary for kids to improve their vocabulary.("WhatsTheWord"?)
+The purpose of this project will be to build a pictographic dictionary for kids to improve their vocabulary: ("WhatsTheWord"?)
 
+The project API link is https://api.dictionaryapi.dev/api/v2/entries/en/
 
 User Stories:
 - //A user can create an account so they can take advantage of additional features.
@@ -11,5 +12,5 @@ User Stories:
 
 * One page should be the landing page
 * Another page should be the welcome page with a search box and a word of the day.
-* How can I limit the vaocabulary to be age appropriate?
-* How can I combine definition and photo? Do I need 2 API's?
+* How can I limit the vocabulary to be age appropriate?
+* //How can I combine definition and images? Do I need 2 API's?
