@@ -8,6 +8,11 @@ h4 {
 }
 
 
+buttons {
+    color:aquamarine;
+};
+
+* {background: none}
 
 h1 {
     text-align: center;
@@ -30,3 +35,12 @@ h2 {
      li {background-color: rgb(179, 245, 203);
 }
 };
+
+button:hover {
+  background-color: #00ff00;
+  color: #ffffff;
+}
+
+@media(max-width: 800px) {
+    grid-template-columns: 1fr;
+}
