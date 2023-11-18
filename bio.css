@@ -10,6 +10,7 @@ body {
     justify-content: center;
     color: wheat; 
     font-family: Arial, sans-serif;
+    font-weight: bold;
 }
 /* .container {
     grid-template-columns: 1fr, 1fr, 2fr;

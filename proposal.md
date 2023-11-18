@@ -4,17 +4,19 @@ The project API link is https://api.dictionaryapi.dev/api/v2/entries/en/
 
 User Stories:
 
-- A User can type a word and get a definiton (and an image).
-- A user can add a new word to to favorites glossary list.
-- A user can see the definition of a word.
-- A user can also see the phonetic pronounciation of the word.
-- A user can see synonymns of the word
+- A User can type a word and get a definition (and an image).
+- A user can add a new word to their favorites glossary list once they sign up for an account.
+- A user can see two definitions of a word.
+- A user can also see the phonetic pronunciation of the word.
+- A user can see synonyms of the word.
 
-* FUTURE PLANS:
-* Enable voice searches
+
+
+* FUTURE UPDATES:
+* Enable voice searches.
 * Another page should be the welcome page with a search box and a word of the day.
-* How can I limit the vocabulary to be age appropriate?
-* Combine definition and images? Do I need 2 API's?
+* Find a way to screen definitions and searches or get a new API.
+* Design results to be delivered on a card with a definition and an illustration etc.
 * Find a way to restrict and control dictionary content with age appropriate categories.
-* Fine tune the dictionary to only deliver one or two definitions
+* Fine tune the dictionary to only deliver one or two definitions at the most.
 * A user can create an account so they can take advantage of additional features.
