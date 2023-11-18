@@ -5,7 +5,7 @@ button {
     border-style: bold;
     font-weight: 800;
     font-size: larger;
-    text-shadow: 0cqmax;
+    text-shadow: 0cqma;
     
 }
 
@@ -17,3 +17,13 @@ h3 {
     color: white;
     font-weight: 300;
 }
+
+h1 {
+
+    position: relative;
+    animation-name: example;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+
+
+};

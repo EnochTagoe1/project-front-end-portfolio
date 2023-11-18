@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://media.licdn.com/dms/image/C5603AQF8H7VjJWPfaA/profile-displayphoto-shrink_800_800/0/1597505395479?e=1705536000&v=beta&t=ciwzLEcTERYfK56SjqyJ1W1z1j52Tt0FcYF2G3TcW-4'); 
+    background-size: cover;
+    background-position: center;
+    height: 200vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: wheat; 
+    font-family: Arial, sans-serif;
+}
+/* .container {
+    grid-template-columns: 1fr, 1fr, 2fr;
+}; */
