@@ -17,6 +17,7 @@ User Stories:
 * Another page should be the welcome page with a search box and a word of the day.
 * Find a way to screen definitions and searches or get a new API.
 * Design results to be delivered on a card with a definition and an illustration etc.
-* Find a way to restrict and control dictionary content with age appropriate categories.
+* Find a way to restrict and control dictionary content with age appropriate categories(API).
 * Fine tune the dictionary to only deliver one or two definitions at the most.
 * A user can create an account so they can take advantage of additional features.
+* Add fancy and kid friendly background effects.
