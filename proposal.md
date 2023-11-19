@@ -1,4 +1,6 @@
-The purpose of this project will be to build a pictographic dictionary for elementary school kids to improve their vocabulary => ("WhatsTheWord"?)
+The purpose of this project will be to build a pictographic dictionary for elementary school kids to improve their vocabulary => ("WhatsTheWord"?).
+
+This is a MVP product prototype to be enhanced with future updates and improvements.
 
 The project API link is https://api.dictionaryapi.dev/api/v2/entries/en/
 

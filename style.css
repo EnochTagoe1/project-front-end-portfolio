@@ -36,11 +36,11 @@ h2 {
 }
 };
 
-button:hover {
+/* button:hover {
   background-color: #00ff00;
   color: #ffffff;
-}
+} */
 
-@media(max-width: 800px) {
+/* @media(max-width: 800px) {
     grid-template-columns: 1fr;
-};
+}; */

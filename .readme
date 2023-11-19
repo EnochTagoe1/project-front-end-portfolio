@@ -6,7 +6,7 @@ Fork and clone this repository.
 
 Navigate to the settings tab on GitHub, then choose Pages from the menu. Configure the Build and Deployment to have a Source of Deploy from a branch and select the main branch for deployment. Once that setup is complete, open up your repository in VSCode to edit or add your contribution to the project.
 
-This is a MVP version of the app. Since this is a work in progress we anticipate a lot of tweaks and changes to optimize and improve the app. This includes finding a better designed API that is best suited for the purpose of the app. Please find below a list of anticipated future improvements to the application:
+This is a MVP product prototype to be enhanced with future updates and improvements. Since this is a work in progress we anticipate a lot of tweaks and changes to optimize and improve the app. This includes finding a better designed API that is best suited for the purpose of the app. Please find below a list of anticipated future improvements to the application:
 
 * FUTURE UPDATES:
 * Enable voice searches.
