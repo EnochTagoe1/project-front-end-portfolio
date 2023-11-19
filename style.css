@@ -14,6 +14,13 @@ buttons {
 
 * {background: none}
 
+/* @keyframes example {
+    0% {color:blue; left: 0;};
+    33% {color: orange; left: 33vw;}
+    66% {color: green; left: 66vw;}
+    100% {color:purple; left: 100vw;}
+    } */
+
 h1 {
     text-align: center;
     color: blueviolet;
@@ -36,10 +43,7 @@ h2 {
 }
 };
 
-/* button:hover {
-  background-color: #00ff00;
-  color: #ffffff;
-} */
+
 
 /* @media(max-width: 800px) {
     grid-template-columns: 1fr;
