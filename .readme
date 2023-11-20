@@ -1,8 +1,8 @@
-The purpose of this project will be to build a pictographic dictionary for kids to improve their vocabulary => (WhatsTheWord?).
+The purpose of this project will be to build a pictographic dictionary for children to improve their vocabulary => (WhatsTheWord?).
 The target population is for parents and elementary schoolers.
 
 If you want to contribute to this project:
-Fork and clone this repository.
+Fork and clone this repository: https://github.com/EnochTagoe1/project-front-end-portfolio
 
 Navigate to the settings tab on GitHub, then choose Pages from the menu. Configure the Build and Deployment to have a Source of Deploy from a branch and select the main branch for deployment. Once that setup is complete, open up your repository in VSCode to edit or add your contribution to the project.
 
@@ -16,5 +16,5 @@ This is a MVP product prototype to be enhanced with future updates and improveme
 * Find a way to restrict and control dictionary content with age appropriate categories.
 * Fine tune the dictionary to only deliver one or two definitions at the most.
 * A user can create an account so they can take advantage of additional features.
-* Add fancy and kid friendly background effects.
+* Add fancy and child friendly background effects.
 

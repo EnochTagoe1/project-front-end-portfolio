@@ -12,7 +12,7 @@ buttons {
     color:aquamarine;
 };
 
-* {background: none}
+/* * {background: none} */
 
 /* @keyframes example {
     0% {color:blue; left: 0;};
@@ -38,13 +38,16 @@ h2 {
     border-color: aquamarine;
 }
 
-@media(min-width: 600px) {
+/* @media(min-width: 600px) {
      li {background-color: rgb(179, 245, 203);
 }
-};
-
-
-
-/* @media(max-width: 800px) {
-    grid-template-columns: 1fr;
 }; */
+
+
+
+@media(max-width: 450px) {
+body{
+    background-color: green;
+    display: grid;
+    grid-template-columns: 1fr;}
+};
